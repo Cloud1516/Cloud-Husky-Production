@@ -14,7 +14,19 @@ people:
   position: CEO
   social:
     - title: twitter
+      url: https://twitter.com/Cloud1516
+    - title: facebook
       url: #
+    - title: stack-overflow
+      url: #
+
+people:
+- name: YumeWolfFang
+  pic: 2
+  position: Assistance
+  social:
+    - title: twitter
+      url: https://twitter.com/YumeWolfFang
     - title: facebook
       url: #
     - title: stack-overflow
