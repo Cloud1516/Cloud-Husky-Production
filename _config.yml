@@ -10,8 +10,8 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Cloud Husky
-  pic: 1
-  position: Lead Designer
+  pic: 1.png
+  position: CEO
   social:
     - title: twitter
       url: https://twitter.com/Cloud1516
